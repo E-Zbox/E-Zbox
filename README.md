@@ -34,6 +34,7 @@ I have a life-long mantra that says CANI meaning Constant and Never-ending Impro
 
 - [Twitter](https://twitter.com/ceoCodes)
 - [LinkedIn](https://www.linkedin.com/in/ebenezer-ononogbu-b1a881257/)
+- [Upwork](https://www.upwork.com/freelancers/~017fde3436e696d76d)
 
 
 <!---
