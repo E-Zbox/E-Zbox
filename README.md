@@ -9,4 +9,8 @@
       <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
     </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=E-Zbox" />
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"
 </div>
