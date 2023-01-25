@@ -71,3 +71,5 @@ I am a Fullstack Blockchain and Mobile Developer <img src="https://media.giphy.c
 <div align="center">
   <img src="https://media.giphy.com/media/82ozVGY6TnFCBmSpLt/giphy.gif" height="200px" />
 </div>
+
+---
