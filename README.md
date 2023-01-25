@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
   
   <div id="badges">
-    <a href="https://linked.com">
+    <a href="https://www.linkedin.com/in/ebenezer-ononogbu-b1a881257">
       <img src="https://img.shields.io/badge/Linkedin-white?logo=linkedin&logoColor=blue&style=for-the-badge" alt="LinkedIn" />
     </a>
     <a href="https://twitter.com/ceoCodes">
