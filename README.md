@@ -19,3 +19,11 @@
 ### 👨‍💻About me:
 
 I am a Fullstack Blockchain and Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria
+
+- 🔭: I'm a Software Engineer and active contributor to fullstack web, mobile and blockchain applications.
+- 🌱: Currently exploring Cloud engineering, Networking and Cybersecurity.
+- ⚡: I enjoy reading tech and non-tech articles, attempting Leet code problems
+- 📫: How to reach me? [zboxstudios97@gmail.com](mailto:zboxstudios97@gmail.com)
+
+### 🛠️ Languages and Tools:
+
