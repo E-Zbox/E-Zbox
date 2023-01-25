@@ -16,6 +16,6 @@
   </h1>
 </div>
 
-## 👨‍💻About me:
+### 👨‍💻About me:
 
 I am a Fullstack Blockchain and Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria
