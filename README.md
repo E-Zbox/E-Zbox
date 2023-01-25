@@ -67,5 +67,5 @@ I am a Fullstack Blockchain and Mobile Developer <img src="https://media.giphy.c
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-Zbox&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-  <img src="https://giphy.com/clips/anidom-fox-foxtv-family-guy-EVtI5MbElT2zU0KNfA" width='100%' />
+  <img src="https://media.giphy.com/media/lD76yTC5zxZPG/giphy.gif" width='100%' />
 </div>
