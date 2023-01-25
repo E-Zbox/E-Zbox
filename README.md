@@ -56,6 +56,10 @@ I am a Fullstack Blockchain and Mobile Developer <img src="https://media.giphy.c
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="100" height="100" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VsCode" alt="VsCode" width="100" height="100" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="100" height="100" />
-
-
 </div>
+
+---
+
+### 🔥: My Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=E-Zbox&theme=dark&background=000000)](https://git.io/streak-stats)
