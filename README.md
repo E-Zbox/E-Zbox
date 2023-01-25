@@ -25,6 +25,8 @@ I am a Fullstack Blockchain and Mobile Developer <img src="https://media.giphy.c
 - ⚡: I enjoy reading tech and non-tech articles, attempting Leet code problems
 - 📫: How to reach me? [zboxstudios97@gmail.com](mailto:zboxstudios97@gmail.com)
 
+---
+
 ### 🛠️ Languages and Tools:
 
 <div>
