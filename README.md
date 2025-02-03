@@ -18,10 +18,10 @@
 
 ### 👨‍💻About me:
 
-I am a Fullstack Blockchain and Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria
+Full-stack, Web3 Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
-- 🔭: I'm a Software Engineer and active contributor to fullstack web, mobile and blockchain applications.
-- 🌱: Currently exploring Cloud engineering, Networking and Cybersecurity.
+- 🔭: A Software Engineer that enjoys contributing to, and learning about full-stack and web3 applications.
+- 🌱: Currently exploring Cloud engineering, Web3 and maybe Cybersecurity in the future.
 - ⚡: I enjoy reading tech and non-tech articles, attempting Leet code problems
 - 📫: How to reach me? [zboxstudios97@gmail.com](mailto:zboxstudios97@gmail.com)
 
