@@ -20,10 +20,10 @@
 
 Full-stack, Web3 Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
-- 🔭: A Software Engineer that enjoys contributing to, and learning about full-stack and web3 applications.
-- 🌱: Currently exploring Cloud engineering, Web3 and maybe Cybersecurity in the future.
-- ⚡: I enjoy reading tech and non-tech articles, attempting Leet code problems
-- 📫: How to reach me? [zboxstudios97@gmail.com](mailto:zboxstudios97@gmail.com)
+- 🔭: that enjoys contributing to, and learning about full-stack and web3 applications.
+- 🌱: currently exploring Cloud engineering, Web3 and maybe Cybersecurity in the future.
+- ⚡: i enjoy reading tech and non-tech articles, attempting Leet code problems
+- 📫: how to reach me? [zboxstudios97@gmail.com](mailto:zboxstudios97@gmail.com)
 
 ---
 
